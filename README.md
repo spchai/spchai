@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I am  <a href="https://spchai.github.io/">Shupeng CHAI (柴术鹏, 柴術鵬)</a>
+
+I am a PhD candidate in geotechnical engineering at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am currently focusing on the **influences of fault roughness on rupture dynamics and stick-slip behavior** through integrated **laboratory experiments** and **numerical simulations**. My interdisciplinary academic foundation spanning geotechnical engineering, mining engineering, and geophysics, and two years of experience in university-level teaching, bring a unique perspective to my research. My research interests include
+
+* Rock mechanics and geophysics
+* Geotechnical engineering
+* Planetary Geomechanics (e.g., Lunar landslides)
+* Interaction between rock and mining backfill
+
+Education
+------
+* 2023–2026 (expected), PhD in Geotechnical Engineering, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
+* 2018–2020, MASc in Mineral Engineering, [University of Montreal (Polytechnique Montréal)](https://www.umontreal.ca/en/)
+* 2014–2018, BEng in Civil Engineering, [Wuhan University](https://www.whu.edu.cn/)
+
 
 <!--
 **spchai/spchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
